@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm pursuing an **M.S. in Financial Engineering** at **Columbia University** (expected December 2027).
+I'm pursuing an **M.S. in Financial Engineering** at **Columbia University**.
 
 My research interests lie at the intersection of machine learning, optimization, and operations research. I’m particularly interested in how predictions can inform decisions under uncertainty. On the machine learning side, I’m interested in building models for time-series data and understanding how well they generalize when conditions change. On the optimization and operations research side, I’m interested in formulating decision problems with practical constraints and exploring how stochastic and robust optimization can account for uncertainty.
 
