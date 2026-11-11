@@ -53,7 +53,10 @@ Processed executive-level data and used regression, random forests, and XGBoost 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-405B78?style=flat-square) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-96431B?style=flat-square)
 
 **Data & Machine Learning**  
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-B34D00?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-B34D00?style=flat-square&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-C43F29?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-38688F?style=flat-square&logo=numpy&logoColor=white)
 
 **Development & Writing**  
-![Git](https://img.shields.io/badge/Git-B83520?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-3F4852?style=flat-square&logo=linux&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-B83520?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-3F4852?style=flat-square&logo=linux&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-374151?style=flat-square&logo=markdown&logoColor=white)
+
+**IDEs**  
+![PyCharm](https://img.shields.io/badge/PyCharm-286C48?style=flat-square&logo=pycharm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0066A8?style=flat-square&logo=visualstudiocode&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-693B91?style=flat-square&logo=visualstudio&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-A54500?style=flat-square&logo=jupyter&logoColor=white)
