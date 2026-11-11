@@ -20,6 +20,12 @@ Compares tree-based factor weights, direct model predictions, and equal-weight b
 **[Walk-Forward Factor Discovery with Symbolic Regression](https://github.com/xuanyu-song/walk-forward-factor-discovery)**  
 Searches for factor expressions in rolling training windows and compares them with momentum and linear regression on held-out synthetic data.
 
+**[Futures Backtesting Engine](https://github.com/xuanyu-song/futures-backtesting-engine)**  
+Simulates next-open execution for futures signals and records positions, transaction costs, and equity.
+
+**[Technical Indicator Robustness Across Futures Markets](https://github.com/xuanyu-song/futures-indicator-robustness)**  
+Compares fixed, rolling, and cross-market MACD and RSI parameters on held-out synthetic data.
+
 **Futures Factor Discovery and Evaluation** · Internship research  
 Developed a genetic algorithm framework for factor discovery and used rolling training windows to evaluate signals on futures data.
 
