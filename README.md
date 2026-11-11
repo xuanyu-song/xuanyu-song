@@ -17,6 +17,9 @@ I'm seeking internships in **quantitative finance, software engineering, and dat
 **[Futures Factor Weighting with LightGBM and XGBoost](https://github.com/xuanyu-song/futures-factor-weighting)**  
 Compares tree-based factor weights, direct model predictions, and equal-weight baselines on held-out synthetic data.
 
+**[Walk-Forward Factor Discovery with Symbolic Regression](https://github.com/xuanyu-song/walk-forward-factor-discovery)**  
+Searches for factor expressions in rolling training windows and compares them with momentum and linear regression on held-out synthetic data.
+
 **Futures Factor Discovery and Evaluation** · Internship research  
 Developed a genetic algorithm framework for factor discovery and used rolling training windows to evaluate signals on futures data.
 
