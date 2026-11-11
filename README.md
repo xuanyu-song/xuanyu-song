@@ -26,12 +26,6 @@ Simulates next-open execution for futures signals and records positions, transac
 **[Technical Indicator Robustness Across Futures Markets](https://github.com/xuanyu-song/futures-indicator-robustness)**  
 Compares fixed, rolling, and cross-market MACD and RSI parameters on held-out synthetic data.
 
-**Futures Factor Discovery and Evaluation** · Internship research  
-Developed a genetic algorithm framework for factor discovery and used rolling training windows to evaluate signals on futures data.
-
-**Executive Teams and Firm Strategy** · Academic research  
-Processed executive-level data and used regression, random forests, and XGBoost to study the relationship between executive backgrounds and firm outcomes.
-
 ## Algorithms & Notes
 
 **[Algorithm Patterns in Python](https://github.com/xuanyu-song/algorithm-patterns-python)**  
