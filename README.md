@@ -1,6 +1,6 @@
 # Xuanyu Song
 
-**Columbia University · Quantitative Research & Quantiitative Trading**
+**Columbia University · Quantitative Research & Quantitative Trading**
 
 [Connect on LinkedIn](https://www.linkedin.com/in/xuanyu-song-147922309)
 
