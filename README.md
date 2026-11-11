@@ -8,9 +8,9 @@
 
 I'm pursuing an **M.S. in Financial Engineering** at **Columbia University** (expected December 2027). I earned a **B.Econ. in Mathematical Finance** from **Tongji University**.
 
-My research interests include **systematic futures strategies**, **factor discovery and evaluation**, and **machine learning for financial time series**. I'm especially interested in how signals hold up across market regimes and how to build data and backtesting pipelines that make experiments reproducible.
+My research interests lie at the intersection of machine learning, optimization, and operations research. I’m particularly interested in how predictions can inform decisions under uncertainty. On the machine learning side, I’m interested in building models for time-series data and understanding how well they generalize when conditions change. On the optimization and operations research side, I’m interested in formulating decision problems with practical constraints and exploring how stochastic and robust optimization can account for uncertainty.
 
-I'm seeking internships in **quantitative research, research engineering, and quantitative development**.
+I'm seeking internships in **quantitative finance, software engineering, and data science**.
 
 ## Projects
 
@@ -26,11 +26,11 @@ Processed executive-level data and used regression, random forests, and XGBoost 
 ## Internships
 
 - **Yibei Investment** · Quantitative IT Intern · Mar–Apr 2026  
-  Automated fund performance reports and built Python tools for data validation and internal distribution.
+
 - **Guotai Junan Futures** · Quantitative Research Intern · Mar–Sep 2025  
-  Expanded a futures factor library and compared machine learning and equal-weight factor combinations through backtests.
+
 - **Shanxi Securities** · Quantitative Research Intern · Jan–Mar 2025  
-  Evaluated intraday futures factors with information coefficients and quantile portfolio tests, and built a basis monitoring tool.
+
 
 ## Languages & Tools
 
