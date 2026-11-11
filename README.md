@@ -32,8 +32,11 @@ Processed executive-level data and used regression, random forests, and XGBoost 
 
 - **Guotai Junan Futures** · Quantitative Research Intern · Mar–Sep 2025  
 
-- **Shanxi Securities** · Quantitative Research Intern · Jan–Mar 2025  
+- **Shanxi Securities** · Quantitative Research Intern · Jan–Mar 2025
 
+- **Shenwan Hongyuan Securities** · Bond Underwriting Intern · Oct–Nov 2024  
+
+- **Industrial Securities** · Research Intern · Jul-Aug 2024  
 
 ## Languages & Tools
 
