@@ -1,6 +1,6 @@
 # Xuanyu Song
 
-**Financial Engineering at Columbia University · Quantitative Research & Research Engineering**
+**Columbia University · Quantitative Research & Quantiitative Trading**
 
 [Connect on LinkedIn](https://www.linkedin.com/in/xuanyu-song-147922309)
 
