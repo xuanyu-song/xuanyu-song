@@ -32,6 +32,11 @@ Developed a genetic algorithm framework for factor discovery and used rolling tr
 **Executive Teams and Firm Strategy** · Academic research  
 Processed executive-level data and used regression, random forests, and XGBoost to study the relationship between executive backgrounds and firm outcomes.
 
+## Algorithms & Notes
+
+**[Algorithm Patterns in Python](https://github.com/xuanyu-song/algorithm-patterns-python)**  
+A collection of 12 Python solutions, runnable tests, and notes on graph traversal, tree recursion, and dynamic programming.
+
 ## Internships
 
 - **Yibei Investment** · Quantitative IT Intern · Mar–Apr 2026  
