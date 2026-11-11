@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm pursuing an **M.S. in Financial Engineering** at **Columbia University** (expected December 2027). I earned a **B.Econ. in Mathematical Finance** from **Tongji University**.
+I'm pursuing an **M.S. in Financial Engineering** at **Columbia University** (expected December 2027).
 
 My research interests lie at the intersection of machine learning, optimization, and operations research. I’m particularly interested in how predictions can inform decisions under uncertainty. On the machine learning side, I’m interested in building models for time-series data and understanding how well they generalize when conditions change. On the optimization and operations research side, I’m interested in formulating decision problems with practical constraints and exploring how stochastic and robust optimization can account for uncertainty.
 
@@ -28,9 +28,6 @@ Compares fixed, rolling, and cross-market MACD and RSI parameters on held-out sy
 
 **Futures Factor Discovery and Evaluation** · Internship research  
 Developed a genetic algorithm framework for factor discovery and used rolling training windows to evaluate signals on futures data.
-
-**Fund Timing Ability** · Course project  
-Led a team that used time-series regressions and visualizations to study whether active equity fund managers adjust their market exposure in response to market conditions.
 
 **Executive Teams and Firm Strategy** · Academic research  
 Processed executive-level data and used regression, random forests, and XGBoost to study the relationship between executive backgrounds and firm outcomes.
